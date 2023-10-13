@@ -1,0 +1,11 @@
+.reveal .slide-logo {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  max-height: 100%;
+}
+
+
+body {
+  background-color: #ECECEC; /* Change the color code to your desired background color */
+}
